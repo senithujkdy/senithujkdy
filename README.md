@@ -21,7 +21,6 @@ developer_stats:
   name: "Senithu Jayakody"
   role: "Full-Stack Developer"
   languages: 
-    - "Golang"
     - "JavaScript" 
     - "TypeScript"
     - "Java"
@@ -46,13 +45,8 @@ developer_stats:
     - "Postman"
     - "MySQL"
     - "MongoDB Atlas"
-  ai_tools:
-    - "ChatGPT"
-    - "Claude"
-    - "Google Gemini"
 recent_achievements:
     2025:
-      - "Creative Problem Solving & Critical Thinking - Udemy"
       - "Master Agile & Scrum Basics - Udemy"
       - "Generative AI and Prompt Engineering - Udemy"
       - "Career Switch to Cloud & DevOps - Udemy"
@@ -128,5 +122,3 @@ recent_achievements:
     </td>
   </tr>
 </table>
-
-<h3 align="center">🌱 Learning, building, and growing one commit at a time</h3>
