@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/senithujayakody/">LinkedIn</a> •
-  <a href="mailto:contact@senithujayakody.com">Email</a> •
+  <a href="mailto:senithujayakody@outlook.com">Email</a> •
   <a href="https://github.com/senithujkdy">GitHub</a>
 </p>
 
@@ -45,7 +45,7 @@
 - 👯 Open to collaborating on **open-source and meaningful projects**
 - ✨ Always happy to talk about **web development, AI, and emerging tech**
 - ⚡ Fun fact: **I enjoy breaking things just to understand how they work**
-- 📫 Contact me via **contact@senithujayakody.com**
+- 📫 Contact me via **senithujayakody@outlook.com**
 
 
 <br>
@@ -60,24 +60,15 @@
 - Postman API Fundamentals – Student Expert  
 - Introduction to Cybersecurity – Cisco Networking Academy  
 
+<br>
 
 ## Skills & Technologies <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%">
 
 <img 
-  style="margin: 10px" 
-  src="https://skillicons.dev/icons?i=
-html,css,js,ts,
-java,python,nextjs,react,
-nodejs,express,mongodb,spring,
-tailwind,bootstrap,threejs,redux,
-mysql,
-kubernetes,
-docker,git,gitlab,firebase,
-gcp,vercel,postman,
-linux,mint,bash,
-vscode,idea,notion,obsidian
-&perline=16"
+  style="margin: 10px"
+  src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,react,nextjs,nodejs,express,spring,mongodb,mysql,tailwind,threejs,redux,docker,kubernetes,git,gitlab,firebase,googlecloud,vercel,bootstrap,postman,linux,mint,bash,vscode,idea,notion,obsidian&perline=16"
 />
+
 
 <br>
 
