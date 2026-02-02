@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/senithujayakody/">LinkedIn</a> •
-  <a href="mailto:senithujayakody@outlook.com">Email</a> •
+  <a href="mailto:contact@senithujayakody.com">Email</a> •
   <a href="https://github.com/senithujkdy">GitHub</a>
 </p>
 
@@ -45,7 +45,7 @@
 - 👯 Open to collaborating on **open-source and meaningful projects**
 - ✨ Always happy to talk about **web development, AI, and emerging tech**
 - ⚡ Fun fact: **I enjoy breaking things just to understand how they work**
-- 📫 Contact me via **senithujayakody@outlook.com**
+- 📫 Contact me via **contact@senithujayakody.com**
 
 
 <br>
